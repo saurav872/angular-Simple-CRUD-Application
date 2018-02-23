@@ -1,5 +1,8 @@
 # I have developed this Application as a part of tutorials on www.angular.io during learning Angular 5.
 
+Please go through Tutorials available on above mentioned website before working on this project.
+you will have to install node and npm for this application to work.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
